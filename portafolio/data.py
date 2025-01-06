@@ -53,7 +53,7 @@ class Data:
             experience,
             projects,
             training,
-            extras
+            #extras
     ):
         self.title = title
         self.description = description
@@ -68,7 +68,7 @@ class Data:
         self.experience = [Info(**info) for info in experience]
         self.projects = [Info(**info) for info in projects]
         self.training = [Info(**info) for info in training]
-        self.extras = [Extra(**info) for info in extras]
+        #self.extras = [Extra(**info) for info in extras]
 
 
 with open("assets/data/data.json") as file:

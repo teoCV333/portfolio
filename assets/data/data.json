@@ -1,128 +1,260 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
+    "title": "Portfolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Mateo Carvajal Vergara",
+    "skill": "Software Engineer",
+    "location": "Medellin, Colombia",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "mcvdev333@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/teoCV333",
+        "likedin": "https://linkedin.com/in/mcv-dev"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "I am a dedicated professional with 3 years of experience in software development, driven by a passion for innovation and continuous learning. Known for my ability to solve complex problems and deliver impactful results, I combine technical expertise, creativity, and a commitment to collaboration. My motivation lies in leveraging my skills to drive growth, enhance efficiency, and contribute meaningfully to a company's success.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-angular-plain",
+            "name": "Angular"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-typescript-plain",
+            "name": "Typescript"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-express-original",
+            "name": "Express"
+        },
+        {
+            "icon": "devicon-nestjs-original",
+            "name": "NestJS"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-mysql-original",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-firebase-plain",
+            "name": "Firebase"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-mongodb-plain",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
         }
+
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Independent Work",
+            "subtitle": "Fullstack developer",
+            "description": "Design and build efficient and scalable websites, primarily using Angular and Node.js, ensuring optimal performance and maintainability.",
+            "date": "2023 - Present"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "terminal",
+            "title": "Haceb Industries",
+            "subtitle": "Backend developer",
+            "description": "Design and develop secure, scalable solutions using Python and Azure, automating processes and deploying cloud-based applications to enhance operational efficiency.",
+            "date": "2024"
+        },
+        {
+            "icon": "terminal",
+            "title": "Mpos Global Inc",
+            "subtitle": "Backend developer",
+            "description": "Design and develop backend solutions using NestJS and NodeJS, integrating new features and ensuring secure communication across systems.",
+            "date": "2023"
+        },
+        {
+            "icon": "terminal",
+            "title": "Mas Alcance",
+            "subtitle": "Full Stack developer",
+            "description": "Design and develop full-stack web applications using Angular and NestJS, centralizing services and enhancing communication through real-time technologies.",
+            "date": "2022 - 2023"
+        },
+        {
+            "icon": "terminal",
+            "title": "Witup",
+            "subtitle": "Fullstack developer",
+            "description": "Support in designing and developing new projects using Angular, Express, and NestJS, contributing to both front-end and back-end solutions.",
+            "date": "2022"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Unblock",
+            "subtitle": "Software owned by ATOMO SARL",
+            "description": "Platform for agile digital payments where you can pay, transfer, or cash out digital currency smoothly, with no extra fees.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-nestjs-original",
+                    "name": "NestJS"
+                },
+                {
+                    "icon": "devicon-flutter-plain",
+                    "name": "Flutter"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://unblock.ch/",
+            "github": ""
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "bar-chart-4",
+            "title": "EM Hotels",
+            "subtitle": "Software owned by EM Hotels",
+            "description": "Web platform for making reservations at hotels and airlines, streamlining the booking process and enhancing user experience through intuitive design and efficient functionality.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-express-original",
+                    "name": "Express"
+                },
+                {
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
+                }
+            ],
+            "image": "/project_3.jpg",
+            "url": "https://www.emhotels.com/",
+            "github": ""
+        },
+        {
+            "icon": "bar-chart-4",
+            "title": "Cocolab",
+            "subtitle": "Software owned by Mas Alcance",
+            "description": "Platform for the supply of raw materials in a hotel chain.",
+            "technologies": [
+                {
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
+                },
+                {
+                    "icon": "devicon-nestjs-original",
+                    "name": "NestJS"
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://cocolab.com.co/",
+            "github": ""
+        },
+        {
+            "icon": "bar-chart-4",
+            "title": "Kiire",
+            "subtitle": "Software owned by Grupo Exito",
+            "description": "Software designed to track employees, payments, reports, statistics, and other comerce services, enhancing operational efficiency and decision-making through centralized data management.",
+            "technologies": [
+                {
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
+                },
+                {
+                    "icon": "devicon-express-original",
+                    "name": "Express"
+                }
+            ],
+            "image": "/project_4.jpg",
+            "url": "",
+            "github": ""
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "graduation-cap",
+            "title": "Software Development Technology",
+            "subtitle": "I.U Pascual Bravo",
+            "description": "",
+            "date": "2020 - 2024",
+            "certificate": ""
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
-    ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "title": "Backend with Node.js and Express",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-backend-nodejs.pdf"
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "icon": "graduation-cap",
+            "title": "aws fundamentals",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-aws-fundamentos.pdf"
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "icon": "graduation-cap",
+            "title": "Docker",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-docker.pdf"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Angular 16",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-angular16.pdf"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "NestJS: Authentication with passport and jwt",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-nestjs-auth.pdf"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "React.js",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-react.pdf"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "React.js: Rendering and compositing patterns",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-react-patrones-render.pdf"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Introduction to Pentesting",
+            "subtitle": "Platzi",
+            "description": "",
+            "date": "",
+            "certificate": "/certificates/diploma-intro-pentesting.pdf"
         }
     ]
 }
