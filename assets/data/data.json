@@ -104,6 +104,29 @@
     "projects": [
         {
             "icon": "bar-chart-4",
+            "title": "Influencer Verificator",
+            "subtitle": "Software Developed by me.",
+            "description": "AI integration for research and verificate health and medicine related claims by knowleds influencers.",
+            "technologies": [
+                {
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
+                },
+                {
+                    "icon": "devicon-express-original",
+                    "name": "Express"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MongoDB"
+                }
+            ],
+            "image": "/project_5.jpg",
+            "url": "https://influencer-verificator-front.vercel.app/dashboard/leaderboard",
+            "github": "https://github.com/teoCV333/influencer-verificator-front"
+        },
+        {
+            "icon": "bar-chart-4",
             "title": "Unblock",
             "subtitle": "Software owned by ATOMO SARL",
             "description": "Platform for agile digital payments where you can pay, transfer, or cash out digital currency smoothly, with no extra fees.",
